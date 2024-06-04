@@ -160,9 +160,9 @@
     <div>
       <h3 class="float-md-start mb-0">INICIO</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">INICIO</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">CADASTROS</a>
-        <a class="nav-link fw-bold py-1 px-0" href="#">LOGIN</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="login.php">INICIO</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cad.php">CADASTROS</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php">LOGIN</a>
       </nav>
     </div>
   </header>
@@ -171,7 +171,7 @@
     <h1>Seja BEM VIND@!</h1>
     <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso à base de dados utilizando PHP como linguagem de back-end.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">GIT HUB</a>
+      <a href="https://github.com/veronicarodrigues07/Cadastro_login.git" class="btn btn-lg btn-light fw-bold border-white bg-white">GIT HUB</a>
     </p>
   </main>
 
