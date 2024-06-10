@@ -1,5 +1,6 @@
 ## Cadastro_login
 ![image info](img/image-inicio.png)
+
 **Descrição**
 
 * **Página Inicial:**
@@ -49,4 +50,6 @@
 **Observação:**
 
 * As palavras em negrito foram feitas para uma melhor comprensão da descrição
+
+AUTOR: [VERONICA RODRIGUES DA SILVA] (https://github.com/veronicarodrigues07)
 
