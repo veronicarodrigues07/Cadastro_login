@@ -1,5 +1,5 @@
 ## Cadastro_login
-![image info](img/image-inicio.png)
+![image info](image-inicio.png)
 
 **Descrição**
 
