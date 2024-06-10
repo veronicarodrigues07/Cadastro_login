@@ -1,7 +1,5 @@
 # Cadastro_login
 
-L
-
 ## Descrição📝
 -"Página Inicial": Apresenta uma introdução ao site, um botão no qual direciona para o meu github. Acima terá opções no qual direciona a  páginas de cadastro e login, e outras informações relevantes.
 -"Página de Cadastro": Permite que os usuários criem novas contas no site, preenchendo um formulário com informações como nome, email e senha.
