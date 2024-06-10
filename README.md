@@ -1,7 +1,6 @@
 # Cadastro_login
 
-Leia-me para o site com página inicial, cadastro e login
-Este projeto web implementa um site básico com três páginas principais:
+L
 
 ## Descrição📝
 -"Página Inicial": Apresenta uma introdução ao site, um botão no qual direciona para o meu github. Acima terá opções no qual direciona a  páginas de cadastro e login, e outras informações relevantes.
